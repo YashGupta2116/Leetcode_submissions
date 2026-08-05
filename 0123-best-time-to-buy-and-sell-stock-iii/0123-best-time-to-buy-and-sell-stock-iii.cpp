@@ -1,22 +1,31 @@
 class Solution {
 public:
-    int f(vector<int>& prices, int i, int sold, bool buy, vector<vector<vector<int>>>& dp) {
-        if (i == prices.size() || sold == 2) return 0;
+    int f(vector<int>& prices) {
+        int n = prices.size();
+        vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(2, vector<int>(3, 0)));
         
-        if (dp[i][buy][sold] != -1) return dp[i][buy][sold]; 
-
-        int profit = 0;
-        if (buy) {
-            profit = max(-prices[i] + f(prices, i+1, sold, false, dp), f(prices, i+1, sold, true, dp));
-        } else {
-            profit = max(prices[i] + f(prices, i+1, sold+1, true, dp), f(prices, i+1, sold, false, dp));
+        for (int i = n-1; i >= 0; i--) {
+            for (int buy = 0; buy <= 1; buy++) {
+                for (int sold = 1; sold >= 0; sold--) {
+                    if (buy) {
+                        dp[i][buy][sold] = max(
+                            -prices[i] + dp[i + 1][false][sold],
+                            dp[i + 1][true][sold]
+                        );
+                    } else {
+                        dp[i][buy][sold] = max(
+                            prices[i] + dp[i + 1][true][sold + 1],
+                            dp[i + 1][false][sold]
+                        );
+                    }
+                }
+            }
         }
-    
-        return dp[i][buy][sold] = profit;
+
+        return dp[0][1][0];
     }
 
     int maxProfit(vector<int>& prices) {
-        vector<vector<vector<int>>> dp(prices.size(), vector<vector<int>>(2, vector<int>(3, -1)));
-        return f(prices, 0, 0,true, dp);
+        return f(prices);
     }
 };
