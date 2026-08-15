@@ -1,23 +1,22 @@
 class Solution {
 public:
-    int f(vector<int>& nums, int i , int j, vector<vector<int>>& dp) {
-        if (i > j) return 0;
-
-        if (dp[i][j] != -1) return dp[i][j];
-
-        int res = INT_MIN;
-        for (int k = i; k <= j; k++) {
-            int coins = nums[i-1] * nums[k] * nums[j+1] + f(nums, i, k-1, dp) + f(nums, k+1, j, dp);
-            res = max(res, coins);
-        }
-
-        return dp[i][j] = res;
-    }
-
     int maxCoins(vector<int>& nums) {
         nums.push_back(1);
         nums.insert(nums.begin(), 1);
-        vector<vector<int>> dp(nums.size()-1, vector<int>(nums.size()-1 , -1));
-        return f(nums, 1, nums.size()-2, dp);
+        int n = nums.size();
+        vector<vector<int>> dp(n, vector<int>(n , 0));
+
+        for (int i = nums.size()-2; i >= 1; i--) {
+            for (int j = i; j <= n-2; j++) {
+                int res = INT_MIN;
+                for (int k = i; k <= j; k++) {
+                    int coins = nums[i-1] * nums[k] * nums[j+1] + dp[i][k-1] + dp[k+1][j];
+                    res = max(res, coins);
+                }
+                dp[i][j] = res;
+            }
+        }
+
+        return dp[1][n-2];
     }
 };
