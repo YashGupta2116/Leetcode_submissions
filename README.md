@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0058-length-of-last-word) |
+| [0844-backspace-string-compare](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0844-backspace-string-compare) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [1106-parsing-a-boolean-expression](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1106-parsing-a-boolean-expression) |
 ## Dynamic Programming
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0202-happy-number) |
+| [0844-backspace-string-compare](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0844-backspace-string-compare) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 ## Binary Indexed Tree
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0844-backspace-string-compare) |
 | [1106-parsing-a-boolean-expression](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1106-parsing-a-boolean-expression) |
 ## Tree
 |  |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
