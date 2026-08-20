@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0018-4sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0018-4sum) |
 | [0202-happy-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0202-happy-number) |
 | [0844-backspace-string-compare](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0844-backspace-string-compare) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
