@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0368-largest-divisible-subset) |
 | [1140-stone-game-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1140-stone-game-ii) |
 ## Prefix Sum
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
@@ -216,4 +219,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0175-combine-two-tables) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
