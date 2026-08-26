@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0058-length-of-last-word) |
+| [0091-decode-ways](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0091-decode-ways) |
 | [0844-backspace-string-compare](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0844-backspace-string-compare) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [1106-parsing-a-boolean-expression](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1106-parsing-a-boolean-expression) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0044-wildcard-matching) |
+| [0091-decode-ways](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
