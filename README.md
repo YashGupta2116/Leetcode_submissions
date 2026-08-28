@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0091-decode-ways) |
 | [0171-excel-sheet-column-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0171-excel-sheet-column-number) |
+| [0299-bulls-and-cows](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0299-bulls-and-cows) |
 | [0844-backspace-string-compare](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0844-backspace-string-compare) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [1106-parsing-a-boolean-expression](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1106-parsing-a-boolean-expression) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0299-bulls-and-cows) |
 | [0560-subarray-sum-equals-k](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [2965-find-missing-and-repeated-values](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/2965-find-missing-and-repeated-values) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0299-bulls-and-cows) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
