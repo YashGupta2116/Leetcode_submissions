@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0368-largest-divisible-subset) |
 | [1140-stone-game-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0319-bulb-switcher) |
 ## Nim Game
 |  |
 | ------- |
