@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0091-decode-ways) |
 | [0171-excel-sheet-column-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0171-excel-sheet-column-number) |
 | [0299-bulls-and-cows](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0299-bulls-and-cows) |
+| [0412-fizz-buzz](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0844-backspace-string-compare) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [1106-parsing-a-boolean-expression](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1106-parsing-a-boolean-expression) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0368-largest-divisible-subset) |
+| [0412-fizz-buzz](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0412-fizz-buzz) |
 | [1140-stone-game-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/2965-find-missing-and-repeated-values) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0844-backspace-string-compare) |
 ## Counting
 |  |
