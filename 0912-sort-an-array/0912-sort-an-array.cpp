@@ -1,37 +1,29 @@
 class Solution {
 public:
-    void merge(vector<int>& nums, int start, int mid , int end) {
-        vector<int> temp;
-        int left = start, right = mid+1;
-
-        while (left <= mid && right <= end) {
-            if (nums[left] <= nums[right])
-                temp.push_back(nums[left++]);
-            else
-                temp.push_back(nums[right++]);
+    void maxHeapify(vector<int>& nums, int n, int i){
+        int largest = i;
+        int left = (2 * i) + 1, right = (2 * i) + 2;
+        if(left < n && nums[left] > nums[largest])
+            largest = left;
+        if(right < n && nums[right] > nums[largest])
+            largest = right;
+        if(largest != i){
+            swap(nums[largest], nums[i]);
+            maxHeapify(nums, n, largest);
         }
-
-        while (left <= mid)
-            temp.push_back(nums[left++]);
-
-        while (right <= end)
-            temp.push_back(nums[right++]);
-
-        for (int i = start; i <= end; i++)
-            nums[i] = temp[i - start];
     }
 
-    void mergeSort(vector<int>& nums, int start, int end) {
-        if (start >= end) return;
-
-        int mid = start + (end - start) / 2;
-        mergeSort(nums, start, mid);
-        mergeSort(nums, mid+1, end);
-        merge(nums, start, mid, end);
+    void heapSort(vector<int>& nums, int n){
+        for(int i = n/2-1; i >= 0; i--)
+            maxHeapify(nums, n, i);
+        for(int i = n-1; i >= 0; i--){
+            swap(nums[0], nums[i]);
+            maxHeapify(nums, i, 0);
+        }
     }
 
     vector<int> sortArray(vector<int>& nums) {
-        mergeSort(nums, 0, nums.size()-1);
+        heapSort(nums, nums.size());
         return nums;
     }
 };
