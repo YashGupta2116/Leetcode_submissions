@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0912-sort-an-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0912-sort-an-array) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0368-largest-divisible-subset) |
+| [0912-sort-an-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0912-sort-an-array) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Hash Table
@@ -220,10 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -267,4 +271,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
