@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/3875-construct-uniform-parity-array-i) |
