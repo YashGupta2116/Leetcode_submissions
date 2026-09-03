@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0068-text-justification) |
 | [0091-decode-ways](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0091-decode-ways) |
 | [0171-excel-sheet-column-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0171-excel-sheet-column-number) |
 | [0299-bulls-and-cows](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0299-bulls-and-cows) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0056-merge-intervals) |
+| [0068-text-justification](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0068-text-justification) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0844-backspace-string-compare) |
 ## Counting
