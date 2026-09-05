@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0152-maximum-product-subarray) |
+| [0164-maximum-gap](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0164-maximum-gap) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0229-majority-element-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0300-longest-increasing-subsequence) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0056-merge-intervals) |
+| [0164-maximum-gap](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0368-largest-divisible-subset) |
 | [0912-sort-an-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0912-sort-an-array) |
@@ -291,10 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
@@ -304,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0137-single-number-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
