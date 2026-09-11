@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0044-wildcard-matching) |
 | [1106-parsing-a-boolean-expression](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1106-parsing-a-boolean-expression) |
+| [3483-unique-3-digit-even-numbers](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/2965-find-missing-and-repeated-values) |
+| [3483-unique-3-digit-even-numbers](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/3903-smallest-stable-index-i) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [2965-find-missing-and-repeated-values](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/2965-find-missing-and-repeated-values) |
+| [3483-unique-3-digit-even-numbers](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -337,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0547-number-of-provinces) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
