@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0029-divide-two-integers) |
 | [0149-max-points-on-a-line](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0172-factorial-trailing-zeroes) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0137-single-number-ii) |
 ## Pigeonhole Principle
 |  |
