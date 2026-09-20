@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0844-backspace-string-compare) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [1106-parsing-a-boolean-expression](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1106-parsing-a-boolean-expression) |
+| [3498-reverse-degree-of-a-string](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0844-backspace-string-compare) |
+| [3498-reverse-degree-of-a-string](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
