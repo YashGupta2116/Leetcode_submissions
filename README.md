@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0068-text-justification) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0044-wildcard-matching) |
 | [0091-decode-ways](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0115-distinct-subsequences) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0044-wildcard-matching) |
 | [1106-parsing-a-boolean-expression](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1106-parsing-a-boolean-expression) |
 | [3483-unique-3-digit-even-numbers](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
