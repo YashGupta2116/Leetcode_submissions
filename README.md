@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0171-excel-sheet-column-number) |
 | [0299-bulls-and-cows](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0392-is-subsequence) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0300-longest-increasing-subsequence) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0137-single-number-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0164-maximum-gap) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0229-majority-element-ii) |
@@ -358,4 +362,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
