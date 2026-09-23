@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0412-fizz-buzz) |
+| [0836-rectangle-overlap](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/2965-find-missing-and-repeated-values) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0149-max-points-on-a-line) |
+| [0836-rectangle-overlap](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0836-rectangle-overlap) |
 ## Euclidean Algorithm
 |  |
 | ------- |
