@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0912-sort-an-array) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1140-stone-game-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0368-largest-divisible-subset) |
 | [0912-sort-an-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0912-sort-an-array) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0299-bulls-and-cows) |
 | [0560-subarray-sum-equals-k](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
