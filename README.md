@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0912-sort-an-array) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1140-stone-game-ii) |
+| [1266-minimum-time-visiting-all-points](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1140-stone-game-ii) |
+| [1266-minimum-time-visiting-all-points](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0836-rectangle-overlap) |
+| [1266-minimum-time-visiting-all-points](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Euclidean Algorithm
 |  |
 | ------- |
