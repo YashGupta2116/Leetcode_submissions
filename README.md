@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0733-flood-fill) |
 | [0912-sort-an-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0368-largest-divisible-subset) |
 | [0912-sort-an-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0844-backspace-string-compare) |
+| [0977-squares-of-a-sorted-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 ## Binary Indexed Tree
 |  |
