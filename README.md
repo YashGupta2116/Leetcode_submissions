@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0191-number-of-1-bits) |
 ## Pigeonhole Principle
 |  |
 | ------- |
