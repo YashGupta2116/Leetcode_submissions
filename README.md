@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0844-backspace-string-compare) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
 | [1106-parsing-a-boolean-expression](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1106-parsing-a-boolean-expression) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0844-backspace-string-compare) |
 | [1106-parsing-a-boolean-expression](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1106-parsing-a-boolean-expression) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -399,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0139-word-break) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
