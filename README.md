@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0733-flood-fill) |
 | [0845-longest-mountain-in-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0845-longest-mountain-in-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0704-binary-search) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
