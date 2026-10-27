@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0068-text-justification) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
