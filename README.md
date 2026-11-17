@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0368-largest-divisible-subset) |
+| [0414-third-maximum-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0414-third-maximum-number) |
 | [0493-reverse-pairs](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0368-largest-divisible-subset) |
+| [0414-third-maximum-number](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/YashGupta2116/Leetcode_submissions/tree/master/1048-longest-string-chain) |
